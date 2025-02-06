@@ -1,3 +1,3 @@
 Hellow
-Adding text during detached head
-Adding text during detached head 2
+Changes in the main branch.
+2nd changes in the feature_1 stash
